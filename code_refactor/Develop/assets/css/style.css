@@ -42,6 +42,10 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+
+header a span {
+    color: #d9dcd6;
+}
 /* header styling end */
 
 /* content section styling start */
@@ -144,7 +148,6 @@ header a {
 
 .benefits p {
     font-size: 16px;
-    text-align: center;
 }
 
 .benefit-lead {
